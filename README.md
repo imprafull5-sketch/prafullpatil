@@ -4,7 +4,8 @@
 📊 Aspiring Data Analyst | Python | SQL | Power BI | Statistics  
 💪 Co-founder of Mallet Gym, Pune | Fitness + Data Enthusiast  
 🚀 Currently working on projects in Data Analytics & Machine Learning  
-📫 Reach me on [LinkedIn](www.linkedin.com/in/prafullpatil07)  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/prafullpatil07)
+
 
 ---
 
